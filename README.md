@@ -5,7 +5,7 @@ This project aims to classify white blood cells in a microscopic image using an 
 By applying color-based segmentation with HSV color space, we identify white blood cells (highlighted in purple) and classify
 pixels as either white blood cells or the background. This approach leverages machine learning to differentiate between areas of interest based on color properties.
 
-#Steps Performed
+# Steps Performed
 Image Upload and Preprocessing
 
 Uploaded a microscopic image using Google Colab's file upload functionality.
@@ -35,7 +35,7 @@ Visualization
 Used Matplotlib to display the original image alongside the processed image with highlighted white blood cells.
 
 
-#Requirements
+# Requirements
 To run this project, ensure the following dependencies are installed:
 
 Python 3.x
